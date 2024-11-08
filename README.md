@@ -2,7 +2,7 @@
 
 A web application for runners to calculate pace, time, and distance for their runs.
 
-See it running: runcal.crlzff.xyz
+See it running: [runcal.crlzff.xyz](https://runcal.crlzff.xyz)
 
 ## Main Functions
 
